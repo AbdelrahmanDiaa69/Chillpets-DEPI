@@ -1,0 +1,10 @@
+Team members 
+- Abdelrahman Diaa
+- Mahmoud Saeed 
+- Asmaa Sabry
+- Ghada Mahmoud
+- Malak Ayman
+
+Live Project Links
+UI: https://www.figma.com/design/rYqPHTzqzB6PsWycSAr4bG/ChillPets-DEPI?node-id=0-1&t=xVgZVtIG5JTJm2Ra-0
+UX: https://www.figma.com/board/aim8l0yKClnCJttMNXFFyB/Chillpets-UX?node-id=434-3179&t=stf1GXPc3ksEepVA-0
